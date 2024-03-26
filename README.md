@@ -1,4 +1,4 @@
-## WebScrapingBooks1
+# WebScrapingBooks1
 This code extracts the top 100 best-selling books from the Cúspide bookstore website using web scraping.
 
 ## Objectives 
@@ -34,7 +34,7 @@ Install the required libraries:
 Run the main script:
 * python scraper.py
 
-### Results
+## Results
 The project generates two files:
 
 * libros.csv: Contains the information of the 100 best-selling books.
