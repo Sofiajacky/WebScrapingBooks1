@@ -21,8 +21,6 @@ Obtain the following information for each book:
 * Requests
 * Pandas
 
-## Repository
-https://github.com/
 
 ## Instructions to run the project
 
