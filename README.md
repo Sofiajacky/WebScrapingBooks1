@@ -26,8 +26,8 @@ Obtain the following information for each book:
 
 Clone the repository on your computer.
 
-* Install the required libraries: pip install -r requirements.txt
-* Run the main script: python scraper.py
+* Install the required libraries: **_pip install -r requirements.txt_**
+* Run the main script: **_python scraper.py_**
 
 ### Results
 The project generates two files:
